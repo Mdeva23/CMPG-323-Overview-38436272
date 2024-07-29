@@ -16,7 +16,7 @@ Below is a list of repositories for each project in the CMPG 323 module:
 
 ## Documentation
 
-All documentation related to the projects and training can be found [here](#).
+All documentation related to the projects and training can be found [https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/7PF2MACZ?sharingId=7D8674AF36433F62][https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/D6ETLBHJ?sharingId=7D8674AF36433F62](#).
 
 ## Branching Strategy
 
