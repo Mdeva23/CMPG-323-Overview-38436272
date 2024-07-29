@@ -36,7 +36,7 @@ All credentials and sensitive information are stored in environment variables an
 
 ## GitHub Project
 
-Our GitHub Project is organized using a Kanban board to manage tasks, sprints, and milestones effectively. This helps in tracking progress and ensuring timely completion of tasks. You can view the project [here](#).
+My GitHub Project is organized using a Kanban board to manage tasks, sprints, and milestones effectively. This helps in tracking progress and ensuring timely completion of tasks.
 
 ## Contribution Guidelines
 
