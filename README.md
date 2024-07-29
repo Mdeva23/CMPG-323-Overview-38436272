@@ -1,1 +1,50 @@
-# CMPG-323-Overview-38436272
+# CMPG 323 Overview - 38436272
+
+## Overview
+
+This repository contains all the work related to the CMPG 323 module, including projects, training, and documentation. The focus is on Agile methodologies, cloud technologies, design patterns, and testing.
+
+## Repositories
+
+Below is a list of repositories for each project in the CMPG 323 module:
+
+1. **Project 1 Submission**
+2. **Project 2 Submission**
+3. **Project 3 Submission**
+4. **Project 4 Submission**
+5. **Project 5 Submission**
+
+## Documentation
+
+All documentation related to the projects and training can be found [here](#).
+
+## Branching Strategy
+
+We use a Gitflow branching strategy, which includes the following branches:
+
+- **Main**: The production-ready state of the project.
+- **Develop**: The latest delivered development changes for the next release.
+- **Feature**: Used to develop new features for the upcoming or current release.
+- **Hotfix**: Critical bug fixes for the production code.
+
+## .gitignore Usage
+
+The `.gitignore` file is used to specify which files and directories to ignore, preventing them from being pushed to the repository. This helps keep the repository clean and secure.
+
+## Credentials and Sensitive Information
+
+All credentials and sensitive information are stored in environment variables and are not included in the repository. Make sure to set up your local environment accordingly by following the instructions in the documentation.
+
+## GitHub Project
+
+Our GitHub Project is organized using a Kanban board to manage tasks, sprints, and milestones effectively. This helps in tracking progress and ensuring timely completion of tasks. You can view the project [here](#).
+
+## Contribution Guidelines
+
+Please follow the guidelines below for contributing to this repository:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with descriptive commit messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request for review.
