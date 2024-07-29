@@ -25,7 +25,6 @@ We use a Gitflow branching strategy, which includes the following branches:
 - **Main**: The production-ready state of the project.
 - **Develop**: The latest delivered development changes for the next release.
 - **Feature**: Used to develop new features for the upcoming or current release.
-- **Hotfix**: Critical bug fixes for the production code.
 
 ## .gitignore Usage
 
