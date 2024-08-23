@@ -8,7 +8,7 @@ This repository contains all the work related to the CMPG 323 module, including 
 
 Below is a list of repositories for each project in the CMPG 323 module:
 
-1. **Project 1 Submission**
+1. **Project 1 Submission**  https://github.com/users/Mdeva23/projects/3
 2. **Project 2 Submission**  https://github.com/Mdeva23/CMPG323_Project2_38436272.git
 3. **Project 3 Submission**  https://github.com/Mdeva23/CMPG323-Project-3-38436272.git
 4. **Project 4 Submission**
