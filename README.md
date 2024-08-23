@@ -18,7 +18,7 @@ Below is a list of repositories for each project in the CMPG 323 module:
 
 Project 1: https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/7PF2MACZ?sharingId=7D8674AF36433F62 / https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/D6ETLBHJ?sharingId=7D8674AF36433F62
 
-Project 2:
+Project 2:  https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/NZ3L2SAF?sharingId=7D8674AF36433F62 / 
 
 Project 3: https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/AEXQ4AN7?sharingId=7D8674AF36433F62  / https://learn.microsoft.com/api/achievements/share/en-gb/DavidSedumedi-5460/HR9Y2A58?sharingId=7D8674AF36433F62
 
