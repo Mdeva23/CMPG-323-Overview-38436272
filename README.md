@@ -10,13 +10,21 @@ Below is a list of repositories for each project in the CMPG 323 module:
 
 1. **Project 1 Submission**
 2. **Project 2 Submission**  https://github.com/Mdeva23/CMPG323_Project2_38436272.git
-3. **Project 3 Submission**
+3. **Project 3 Submission**  https://github.com/Mdeva23/CMPG323-Project-3-38436272.git
 4. **Project 4 Submission**
 5. **Project 5 Submission**
 
 ## Documentation
 
-All documentation related to the projects and training can be found [https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/7PF2MACZ?sharingId=7D8674AF36433F62][https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/D6ETLBHJ?sharingId=7D8674AF36433F62](#).
+Project 1: https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/7PF2MACZ?sharingId=7D8674AF36433F62 / https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/D6ETLBHJ?sharingId=7D8674AF36433F62
+
+Project 2:
+
+Project 3: https://learn.microsoft.com/api/achievements/share/en-us/DavidSedumedi-5460/AEXQ4AN7?sharingId=7D8674AF36433F62  / https://learn.microsoft.com/api/achievements/share/en-gb/DavidSedumedi-5460/HR9Y2A58?sharingId=7D8674AF36433F62
+
+Project 4:
+
+Project 5:
 
 ## Branching Strategy
 
